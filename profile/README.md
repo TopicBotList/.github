@@ -12,15 +12,10 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 <h2> Features </h2>
 
 - Clean and Modern UI with a Theme Changer (Dark and Light mode) with support for Google Ads.
-![Infinity Home Page](https://img.toxicdev.me/31edb5.png)
 
-- Modern and Minimalistic About Page with a integrated Staff List
-![About Us](https://img.toxicdev.me/16b465.png)
+- Modern and Minimalistic About Page with a integrated Staff 
 
 - Bot Listing with a Integrated Search Bar and tons of Pre-Defined Options.
-![Bots and Search](https://img.toxicdev.me/1cc292.png)
 
-- Modern and Stylish Bot Widgets with a variety of Available Sizes
-![Large Bot Widget](https://infinitybots.gg/bots/825204301814038528/widget?size=medium)
-
+- Modern and Stylish Bot Widgets with a variety of Available
 <hr />
