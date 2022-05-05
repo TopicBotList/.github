@@ -8,14 +8,3 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 </p>
 
 <hr>
-
-<h2> Features </h2>
-
-- Clean and Modern UI with a Theme Changer (Dark and Light mode) with support for Google Ads.
-
-- Modern and Minimalistic About Page with a integrated Staff 
-
-- Bot Listing with a Integrated Search Bar and tons of Pre-Defined Options.
-
-- Modern and Stylish Bot Widgets with a variety of Available
-<hr />
