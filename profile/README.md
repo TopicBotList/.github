@@ -21,6 +21,6 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 ![Bots and Search](https://img.toxicdev.me/1cc292.png)
 
 - Modern and Stylish Bot Widgets with a variety of Available Sizes
-![Large Bot Widget](https://infinitybotlist.com/bots/825204301814038528/widget?size=medium)
+![Large Bot Widget](https://infinitybots.gg/bots/825204301814038528/widget?size=medium)
 
 <hr />
