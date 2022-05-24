@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://pbs.twimg.com/profile_banners/1365471907001237510/1653174132/1500x500" height='250px' width='1500px' />
+  <img src="https://pbs.twimg.com/profile_banners/1365471907001237510/1653174132/1500x500" />
   <br> 
   Infinity Bot List
 </h2>
