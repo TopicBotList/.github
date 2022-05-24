@@ -13,5 +13,5 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 </h2>
 
 <ol>
-  <li>[infinitybots.gg](https://infinitybots.gg)</li>
+  <li><a href="https://infinitybots.gg">infinitybots.gg</a></li>
 </ol>
