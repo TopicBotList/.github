@@ -7,3 +7,11 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 </p>
 
 <hr>
+
+<h2 align='center'>
+  Our Links
+</h2>
+
+<ol>
+  <li>[infinitybots.gg](https://infinitybots.gg)</li>
+</ol>
