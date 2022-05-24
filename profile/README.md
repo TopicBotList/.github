@@ -8,7 +8,7 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 
 <hr>
 
-<h2 align='center'>
+<h2>
   Our Links
 </h2>
 
