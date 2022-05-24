@@ -4,7 +4,7 @@
   Infinity Bot List
 </h2>
 <p align="center">
-The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we make it easier for you to advertise and grow your bots using our widgets, bot packs and more!
+The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we make it easier for you to advertise and grow your bots using our vanity links, widgets, bot packs and more! Search our vast list of bots for an exciting start to your Discord Server. Filter by name, category, tags and description to find a bot that suits your needs!
 </p>
 
 <hr>
