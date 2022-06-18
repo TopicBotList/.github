@@ -1,9 +1,9 @@
 <h2 align='center'>
-  <img src="https://pbs.twimg.com/profile_banners/1365471907001237510/1653174132/1500x500" />
+  <img src="https://imgur.com/GEM4DFU" />
   <br> 
 </h2>
 <p>
-The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we make it easier for you to advertise and grow your bots using our vanity links, widgets, bot packs and more! Search our vast list of bots for an exciting start to your Discord Server. Filter by name, category, tags and description to find a bot that suits your needs!
+Do you want to expand and improve your Discord bot? TopicList is here for you!
 </p>
 
 <hr>
@@ -13,8 +13,7 @@ The future of <a href="https://discord.com">Discord</a> Bot Listing Services, we
 </h2>
 
 <ul>
-  <li><a href="https://infinitybots.gg">Website</a></li>
-  <li><a href="https://infinitybots.gg/discord">Discord</a></li>
-  <li><a href="https://blog.botlist.app">Blog</a></li>
-  <li><a href="https://status.botlist.site">Status</a></li>
+  <li><a href="https://vcodez.xyz">Website</a></li>
+  <li><a href="https://vcodez.xyz/dc">Discord</a></li>
+  <li><a href="https://status.topiclist.gg">Status</a></li>
 </ul>
