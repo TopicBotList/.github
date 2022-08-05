@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="Do you want to expand and improve your Discord bot.png" />
+  <img src="https://pbs.twimg.com/profile_banners/1505194289323823105/1655528380/1500x500" />
   <br> 
 </h2>
 <p>
