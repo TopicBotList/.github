@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="Do you want to expand and improve your Discord bot.png />
+  <img src="Do you want to expand and improve your Discord bot.png" />
   <br> 
 </h2>
 <p>
