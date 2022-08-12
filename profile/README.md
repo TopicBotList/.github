@@ -13,8 +13,8 @@ Do you want to expand and improve your Discord bot? TopicList is here for you!
 </h2>
 
 <ul>
-  <li><a href="https://vcodez.xyz">Website</a></li>
-  <li><a href="https://vcodez.xyz/dc">Discord</a></li>
-  <li><a href="https://status.topiclist.gg">Status</a></li>
+  <li><a href="https://topiclist.xyz">Website</a></li>
+  <li><a href="https://topiclist.xyz/dc">Discord</a></li>
+  <li><a href="https://topiclist.instatus.com">Status</a></li>
 <li><a href="https://infinitybots.gg">credits to infinitybots!</a></li
 </ul>
