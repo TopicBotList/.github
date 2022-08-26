@@ -22,7 +22,7 @@ Do you want to expand and improve your Discord bot? TopicList is here for you!
 <h2 align='center'>
 # programming Language We Use
    
-<img src="https://skillicons.dev/icons?i=java,css,html,django,docker,express,flask,go,nodejs,nextjs,mongodb,mysql,nodejs,react,redis,sqlite,tailwind,ts,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,css,html,django,docker,discord,github,git,cloudflare,pug,express,flask,go,nodejs,nextjs,mongodb,mysql,nodejs,react,redis,sqlite,tailwind,ts,vscode&theme=dark" />
 </div>
 
 <br />
