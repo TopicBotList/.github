@@ -17,7 +17,7 @@ Do you want to expand and improve your Discord bot? TopicList is here for you!
 <li><a href="https://beta.topiclist.xyz">Beta</a></li>
 <li><a href="https://servers.topiclist.xyz">Servers</a></li>
   <li><a href="https://discord.gg/Jad6TcdEet">Discord</a></li>
-  <li><a href="https://topiclist.xyz/status">Status</a></li>
+  <li><a href="https://status.topiclist.xyz/">Status</a></li>
 <li><a href="https://infinitybots.gg">Credits to infinitybots!</a></li
 </ul>
 
